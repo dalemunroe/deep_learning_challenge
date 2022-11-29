@@ -93,7 +93,7 @@ Optimisation Steps
 * Accuracy of greater than 76% achieved but less that V4.
 
 #
-#### V6 - added an extra hidden layer
+#### V6 - Changed Function - Removed a hidden layer.
 * 3 Hidden Layers
 * 30 neurons in each layer
 * Sigmoiod Function for 3 hidden layers
